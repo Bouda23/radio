@@ -1,0 +1,7 @@
+Flask
+Flask-SocketIO
+numpy
+scipy
+noisereduce
+pyaudio
+requests
